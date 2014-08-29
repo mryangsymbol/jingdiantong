@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<site name="拙政园" timestamp="1346122198" audio="YES" doubled="YES" location="YES">
+  <map width="4733" height="3183">
+    <anchor x="1" y="1">
+      <latitude>31.327913591700135</latitude>
+      <longitude>120.62282221849868</longitude>
+    </anchor>
+    <anchor x="4733" y="3183">
+      <latitude>31.324406752342703</latitude>
+      <longitude>120.62679176318146</longitude>
+    </anchor>
+    <anchor x="0" y="0">
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+    </anchor>
+  </map>
+  <collection>
+    <item name="景点导语" icon="collection/infocenter.png" description="">collection/infocenter.html</item>
+    <item name="历史文化" icon="collection/history.png" description="">collection/history.html</item>
+    <item name="票务信息" icon="collection/tickets.png" description="">collection/tickets.html</item>
+    <item name="旅行贴士" icon="collection/tips.png" description="">collection/tips.html</item>
+    <item name="消费指南" icon="collection/shopping.png" description="">collection/shopping.html</item>
+    <item name="交通信息" icon="" description="">collection/traffic.html</item>
+    <transport>
+      <address>江苏省苏州市平江区东北街178号</address>
+      <subway/>
+      <bus>游1、游2、313、40、202 、923路</bus>
+      <landmark></landmark>
+      <latitude>31.3243</latitude>
+      <longitude>120.629</longitude>
+      <taxi>collection/taxi.html</taxi>
+      <taxidest>拙政园</taxidest>
+      <taxitel>0512-67776777</taxitel>
+    </transport>
+  </collection>
+  <more/>
+  <points>
+    <point x="4124" y="2070">
+      <id>1481</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>兰雪堂</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>343</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG001_1328869413.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG001_1328869413.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI001.html</url>
+      </urls>
+      <audios/>
+    </point>
+    <point x="4345" y="1671">
+      <id>1482</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>芙蓉榭</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>163</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG003_1328869413.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG003_1328869413.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG036_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG036_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI002.html</url>
+      </urls>
+      <audios>
+        <audio name="芙蓉榭">
+          <audiodesc>芙蓉榭一部分位于岸上，一部分延伸至水中，起到融入水景的效果。</audiodesc>
+          <audiourl>content/story002.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3285" y="741">
+      <id>1483</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>秫香馆</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>160</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG004_1328869412.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG004_1328869412.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI003.html</url>
+      </urls>
+      <audios>
+        <audio name="秫香馆">
+          <audiodesc>秫，指高粱，秫香馆，有稻谷飘香的意境。</audiodesc>
+          <audiourl>content/story008.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="3969" y="1087">
+      <id>1484</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>天泉亭</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>380</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG006_1328869412.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG006_1328869412.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI004.html</url>
+      </urls>
+      <audios/>
+    </point>
+    <point x="2131" y="1433">
+      <id>1485</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>远香堂</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>275</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG007_1328869412.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG007_1328869412.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG008_1328869412.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG008_1328869412.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG040_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG040_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI005.html</url>
+      </urls>
+      <audios>
+        <audio name="远香堂">
+          <audiodesc>远香堂为拙政园主体建筑，四周落地长窗，可赏四季景色。</audiodesc>
+          <audiourl>content/story014.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1667" y="1499">
+      <id>1486</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>香洲</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>296</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG009_1328869412.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG009_1328869412.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG038_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG038_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI006.html</url>
+      </urls>
+      <audios>
+        <audio name="香洲">
+          <audiodesc>香洲仿“船”而建，算是非常精美的一座舫类建筑。</audiodesc>
+          <audiourl>content/story011.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1961" y="1761">
+      <id>1487</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>松风水阁</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>469</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG010_1328869412.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG010_1328869412.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG035_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG035_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI007.html</url>
+      </urls>
+      <audios>
+        <audio name="松风水阁">
+          <audiodesc>松风水阁周围种植黑松，松涛阵阵，适合夏天观景。</audiodesc>
+          <audiourl>content/story009.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1483" y="987">
+      <id>1488</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>见山楼</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>263</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG011_1328869412.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG011_1328869412.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG037_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG037_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI008.html</url>
+      </urls>
+      <audios>
+        <audio name="见山楼">
+          <audiodesc>见山楼取自陶渊明“采菊东篱下，悠然见南山”之句，曾是远眺之所。</audiodesc>
+          <audiourl>content/story004.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1731" y="1205">
+      <id>1489</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>荷风四面亭</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>125</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG012_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG012_1328869411.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI009.html</url>
+      </urls>
+      <audios>
+        <audio name="荷风四面亭">
+          <audiodesc>荷风四面亭四面种植荷花，是园中赏荷佳处。</audiodesc>
+          <audiourl>content/story003.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2593" y="921">
+      <id>1490</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>梧竹幽居</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>249</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG014_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG014_1328869411.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI011.html</url>
+      </urls>
+      <audios>
+        <audio name="梧竹幽居">
+          <audiodesc>梧竹幽居其外圆内方，飞檐翘角的造型，恐怕算是苏州古典园林诸亭中的孤例。</audiodesc>
+          <audiourl>content/story010.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1031" y="1403">
+      <id>1491</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>与谁同坐轩</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>252</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG005_1328869412.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG005_1328869412.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG013_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG013_1328869411.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI010.html</url>
+      </urls>
+      <audios>
+        <audio name="与谁同坐轩">
+          <audiodesc>与谁同坐轩仿扇子而建，坐落岸边，始于闲眺。</audiodesc>
+          <audiourl>content/story016.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="941" y="1731">
+      <id>1492</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>卅六鸳鸯馆</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>349</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG015_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG015_1328869411.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG017_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG017_1328869411.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI012.html</url>
+      </urls>
+      <audios>
+        <audio name="卅六鸳鸯馆">
+          <audiodesc>卅六鸳鸯馆与十八曼陀罗花馆为一整体，因形似鸳鸯厅的格局而得名。</audiodesc>
+          <audiourl>content/story007.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1862" y="1679">
+      <id>1521</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>小飞虹</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>406</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG016_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG016_1328869411.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG018_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG018_1328869411.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI013.html</url>
+      </urls>
+      <audios>
+        <audio name="小飞虹">
+          <audiodesc>小飞虹采用了中跨高，边跨低的结构形式，显示出以桥为中心的独特景观。</audiodesc>
+          <audiourl>content/story013.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2758" y="1119">
+      <id>1522</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>长廊</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>289</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG025_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG025_1328869410.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG034_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG034_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI021.html</url>
+      </urls>
+      <audios/>
+    </point>
+    <point x="1842" y="1875">
+      <id>1523</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>小沧浪</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>177</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG039_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG039_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI014.html</url>
+      </urls>
+      <audios>
+        <audio name="小沧浪">
+          <audiodesc>小沧浪将水面一分为二，堪称理水境界的一绝。</audiodesc>
+          <audiourl>content/story012.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="907" y="993">
+      <id>1525</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>倒影楼与浮翠阁</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>418</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG019_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG019_1328869411.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG020_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG020_1328869411.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI015.html</url>
+      </urls>
+      <audios>
+        <audio name="倒影楼与浮翠阁">
+          <audiodesc>倒影楼为观赏水中倒影的佳处，浮翠阁则如浮动在翠绿之上。</audiodesc>
+          <audiourl>content/story001.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="4065" y="1834">
+      <id>1526</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>缀云峰</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>121</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG033_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG033_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI016.html</url>
+      </urls>
+      <audios>
+        <audio name="缀云峰">
+          <audiodesc>缀云峰体量巨大，下小上大，岿然独立，以遮住景色为目的。</audiodesc>
+          <audiourl>content/story017.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="643" y="1539">
+      <id>1527</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>留听阁与塔影亭</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>190</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG021_1328869411.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG021_1328869411.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG022_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG022_1328869410.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI017.html</url>
+      </urls>
+      <audios>
+        <audio name="留听阁与塔影亭">
+          <audiodesc>站在留听阁回望，便是观赏塔影亭的最好地点。</audiodesc>
+          <audiourl>content/story006.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="1420" y="1686">
+      <id>1528</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>玉兰堂</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>476</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG023_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG023_1328869410.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI018.html</url>
+      </urls>
+      <audios>
+        <audio name="玉兰堂">
+          <audiodesc>玉兰堂园内有大小玉兰各一株，具有妙笔生花之意。</audiodesc>
+          <audiourl>content/story015.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="835" y="3035">
+      <id>1529</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>苏州博物馆</title>
+      <keyword/>
+      <type>info</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>400</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG024_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG024_1328869410.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI019.html</url>
+      </urls>
+      <audios/>
+    </point>
+    <point x="2610" y="1467">
+      <id>1530</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>玲珑馆</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>303</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG041_1328869408.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG041_1328869408.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG042_1328869408.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG042_1328869408.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI020.html</url>
+      </urls>
+      <audios>
+        <audio name="玲珑馆">
+          <audiodesc>玲珑馆的三个小院，既隔又连，互相穿插，在空间处理和景物设置方面富有变化。</audiodesc>
+          <audiourl>content/story005.amr</audiourl>
+        </audio>
+      </audios>
+    </point>
+    <point x="2517" y="1311">
+      <id>1532</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>绣绮亭</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>383</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG029_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG029_1328869410.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI022.html</url>
+      </urls>
+      <audios/>
+    </point>
+    <point x="2006" y="955">
+      <id>1533</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>雪香云蔚亭</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>132</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG002_1328869413.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG002_1328869413.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI024.html</url>
+      </urls>
+      <audios/>
+    </point>
+    <point x="2274" y="859">
+      <id>1534</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>待霜亭</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>488</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG026_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG026_1328869410.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG027_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG027_1328869410.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI023.html</url>
+      </urls>
+      <audios/>
+    </point>
+    <point x="3289" y="2445">
+      <id>1535</id>
+      <latitude>0</latitude>
+      <longitude>0</longitude>
+      <title>苏州园林博物馆</title>
+      <keyword/>
+      <type>attract</type>
+      <level>0</level>
+      <rating>10</rating>
+      <ratecount>268</ratecount>
+      <album>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG028_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG028_1328869410.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG030_1328869410.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG030_1328869410.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG031_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG031_1328869409.jpg</img>
+        <img thumbs="https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fthumbs%2FIMG032_1328869409.jpg" title="">https://service.itouchchina.com/tongtiansvcs/viewimg/63/%2Ftongtian%2Farea63%2Fmedia%2Fimages%2FIMG032_1328869409.jpg</img>
+      </album>
+      <urls>
+        <url>content/POI025.html</url>
+      </urls>
+      <audios/>
+    </point>
+  </points>
+  <defaultSetOnType>all</defaultSetOnType>
+  <routes count="1">
+    <route mode="0" name="全园游">
+      <description>拙政园全园游览，领略江南园林风情。共24个景点。需时：4小时。</description>
+      <contents>
+        <content day="1">兰雪堂,缀云峰,芙蓉榭,天泉亭,秫香馆,长廊,梧竹幽居,待霜亭,雪香云蔚亭,荷风四面亭,见山楼,倒影楼与浮翠阁,与谁同坐轩,留听阁与塔影亭,卅六鸳鸯馆,玉兰堂,香洲,小沧浪,松风水阁,小飞虹,远香堂,绣绮亭,玲珑馆,苏州园林博物馆</content>
+      </contents>
+    </route>
+  </routes>
+</site>
